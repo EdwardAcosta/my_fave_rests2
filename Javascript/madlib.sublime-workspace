@@ -1,0 +1,604 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"Adjective"
+			],
+			[
+				"func",
+				"function_name"
+			],
+			[
+				"F",
+				"function_name"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"mr",
+				"margin-bottom\tproperty"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"Ti",
+				"TITLE\tTag"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"create",
+				"created"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"number",
+				"number"
+			],
+			[
+				"fu",
+				"firstnumber"
+			],
+			[
+				"se",
+				"secondnumber"
+			],
+			[
+				"C",
+				"Cmath"
+			],
+			[
+				"fr",
+				"firstnumber"
+			],
+			[
+				"to",
+				"to_f"
+			],
+			[
+				"dow",
+				"downcase"
+			],
+			[
+				"team",
+				"team2"
+			],
+			[
+				"de",
+				"delete_at"
+			],
+			[
+				"tea",
+				"teamname"
+			],
+			[
+				"Team",
+				"Teamname"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"seed",
+				"seed_exists"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"m",
+				"model"
+			],
+			[
+				"first",
+				"firstname"
+			],
+			[
+				"fav",
+				"favfood"
+			],
+			[
+				"fa",
+				"favfood"
+			],
+			[
+				"ag",
+				"age"
+			],
+			[
+				"na",
+				"name1"
+			],
+			[
+				"gets",
+				"getsnums"
+			],
+			[
+				"i",
+				"int2"
+			],
+			[
+				"IN",
+				"int1"
+			],
+			[
+				"int",
+				"int1"
+			],
+			[
+				"get",
+				"getsnums"
+			],
+			[
+				"ite",
+				"integer"
+			],
+			[
+				"b",
+				"boy"
+			],
+			[
+				"arr",
+				"array_hash"
+			],
+			[
+				"car",
+				"car_action"
+			],
+			[
+				"ma",
+				"make_sound"
+			],
+			[
+				"q",
+				"quantity"
+			],
+			[
+				"pr",
+				"Product"
+			],
+			[
+				"def",
+				"defs\tdef self .. end"
+			],
+			[
+				"reve",
+				"reverser"
+			],
+			[
+				"co",
+				"convert"
+			],
+			[
+				"lb",
+				"lbs_kgs"
+			],
+			[
+				"do",
+				"downcase"
+			],
+			[
+				"tip",
+				"tip"
+			],
+			[
+				"an",
+				"animal"
+			],
+			[
+				"An",
+				"animal"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"A",
+				"Animal"
+			],
+			[
+				"so",
+				"storednumber"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"c",
+				"Comment"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"rep",
+				"reply"
+			],
+			[
+				"len",
+				"length_to_i"
+			],
+			[
+				"mi",
+				"Middlename"
+			],
+			[
+				"last",
+				"Lastname"
+			],
+			[
+				"my",
+				"myContact"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: \t\t",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: YAML.load(file)"
+			],
+			[
+				"browser",
+				"Preferences: Open in Browser Settings"
+			],
+			[
+				"packages",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Javascript/imperial_to_metric_height.html",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Javascript/madlib.js",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Javascript/madlib.html",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Javascript/Index.html",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Javascript/site.js",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Javascript/style.css",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Javascript/height_to_cm.js",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/default.html",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/default_html.html",
+		"/Users/edwardacosta/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Javascript/height_to_cm.html",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Javascript/imperial_to_metric_height.js",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/views/epicenter/show_user.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/controllers/epicenter_controller.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/views/epicenter/all_users.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/views/epicenter/feed.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/config/routes.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/views/epicenter/_user_list.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/assets/javascripts/epicenter.coffee",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/views/epicenter/all_user.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/views/epicenter/followers.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/views/epicenter/following.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/config/locales/en.yml",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/assets/javascripts/application.js",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/views/layouts/application.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/views/epicenter/now_following.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/models/tweet.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/views/tweets/show.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/twit",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/assets/stylesheets/application.scss",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/assets/stylesheets/epicenter.scss",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/views/devise/sessions/new.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/models/application_record.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/views/tweets/new.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/CodeAcademy/style_files/style.css",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/assets/stylesheets/scaffolds.scss",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/assets/stylesheets/tweets.scss",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/controllers/tweets_controller.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/views/epicenter/tag_tweets.html.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/views/tweets/index.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/helpers/tweets_helper.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/models/tag.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/app/models/tweet_tag.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twit/Gemfile",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twitter-talent-south/Gemfile",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twitter-talent-south/app/assets/stylesheets/application.scss",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twitter-talent-south/app/assets/javascripts/application.js",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/CodeAcademy/Forms/Form_Validation.html",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/CodeAcademy/Forms/Forms.html",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/twitter-class-project/Gemfile",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/my_sql/app/views/users/index.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/my_sql/app/views/users/_user.json.jbuilder",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/furniture/app/controllers/inventory_controller.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/adventures/app/assets/stylesheets/application.css",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/adventures/app/views/welcome/index.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/adventures/app/assets/stylesheets/welcome.scss",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/adventures/app/assets/stylesheets/scaffolds.scss",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/CSS/learning.css",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/adventures/README.md",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/adventures/app/views/activities/index.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/adventures/app/assets/stylesheets/activities.scss",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/adventures/app/views/states/index.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/adventures/adventures",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/pet_store/pet_store",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/adventures/config/routes.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/adventures/app/views/welcome/about.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/my_awesome_project/my_awesome_project",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/adventure/adventure",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/my_first_rails/my_first_rails",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/pet_store/config/routes.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/pet_store/app/views/welcome/about.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/pet_store/app/views/welcome/index.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/my_first_rails",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/my_first-rails",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/pet_store/app/controllers/welcome_controller.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/my_first_rails/app/views/welcome/index.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/my_first_rails/app/views/welcome/about.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/my_first_rails/app/views/welcome/contact.html.erb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/my_first_rails/config/routes.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/my_first_rails/app/assets/config/manifest.js",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/my_first-rails",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/my_first_rails/gemfile",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/my_first_rails/project",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Ruby_Homework/rubymethods.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Ruby_Homework/sqrt.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/github/practice.html",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/github/mike.html",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/my_guess2.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Github/index.html",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/seed.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/Saenz_seed.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/seeds.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/quizzes.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/classes.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/Hash_loop.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/state_hashloop.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/methods.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/Challenge.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/whilejacob.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/SortArray.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/Stephan.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/student2.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/Test_score.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/tip.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Ruby_Homework/RubyLoops.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/animals.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/random.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Ruby_Homework/Homework1.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/untilloopup.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/mood.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/madlib.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/Edtest.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/RubyLoops.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/untilloop.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/10timesloop.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/5timesdo.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/Ruby_Homework/whilerandom.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/Ruby_Homework/itchyland.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/Ruby_Homework/countdownloop.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/Ruby_Homework/10timesloop.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/timesloop.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/Ruby_Homework/Homework1.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/Ruby_Homework/RubyLoops.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/Homework1.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/Ruby_Homework/planetyears.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/Tip.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/sentenceword.rb",
+		"/Users/edwardacosta/OneDrive/Documents/HTML_Classes/Code_Immersion/Ruby_code/Answers/twonumbers.rb"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 162.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "madlib.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 484.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

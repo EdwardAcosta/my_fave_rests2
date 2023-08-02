@@ -1,0 +1,76 @@
+
+/*-------- Blue color --------*/
+#logo-container {
+  width: 50%;
+  margin: 0 auto;
+}
+
+#logo {
+  margin: 50px 0 10px 0; 
+  width: 100%;
+}
+
+.google-logo{
+  margin:150px auto 0;
+  width:75px;
+  height:50px;
+  border-top:50px solid #4285f4;
+  border-right:50px solid #4285f4;
+  border-bottom:50px solid #4285f4;
+  border-radius:0 0 250px 0;
+  position:relative;
+  box-sizing:content-box;
+}
+
+/*-------- Red Green Yellow Color --------*/
+.google-logo:before{
+  content:"";
+  display:block;
+  width:250px;
+  height:250px;
+  border-top:50px solid #ea4335;
+  border-right:50px solid transparent;
+  border-bottom:50px solid #34a853;
+  border-left:50px solid #fbbc05;
+  border-radius:200px;
+  box-sizing:border-box;
+  position:absolute;
+  top:-150px;
+  right:-50px;
+ }
+
+ input{
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    height: 20px;
+    width: 500px;
+    border:1px solid #eaeaea;
+    outline:none;
+}
+input:hover{
+    border-color: #a0a0a0 #b9b9b9 #b9b9b9 #b9b9b9;
+}
+input:focus{
+    border-color:#4d90fe;
+}
+
+input[type="submit"] {
+    border-radius: 2px;
+    background: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    color: #757575;
+    cursor: default;
+    font-size: 14px;
+    font-weight: bold;
+    width: 100px;
+    padding: 0 16px;
+    height:36px;
+}
+input[type="submit"]:hover {
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    background: #f8f8f8;
+    border: 1px solid #c6c6c6;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    color: #222;
+}

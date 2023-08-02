@@ -1,0 +1,14 @@
+
+if animals.include? fav
+	puts "I love that animal"
+else
+	puts "I don't care those animals"
+end
+
+
+state1 = {"Name" = "Georgia, "Capital" => "Atlanta", "Population" = "100000"}
+
+state1.each.do |key, value|
+	puts {key}: #{value}"
+
+

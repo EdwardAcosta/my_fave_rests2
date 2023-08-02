@@ -1,0 +1,15 @@
+
+puts "Enter Cat or Dog"
+
+choice = gets.chomp
+
+puts " You have entered" + choice
+
+if choice == "cat"
+puts "Meow!"
+
+else 
+puts "Woof !"
+
+end
+

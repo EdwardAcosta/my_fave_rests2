@@ -1,0 +1,19 @@
+
+.square{
+	height:200px;
+	width: 200px;
+	margin-bottom: 10px;
+	background-color: red;
+	margin-right: 10px;
+	float:left;
+
+}
+
+#circle{
+	height: 200px;
+	width: 200px;
+	background-color: green;
+	border-radius: 50%;
+	float:left;
+}
+
